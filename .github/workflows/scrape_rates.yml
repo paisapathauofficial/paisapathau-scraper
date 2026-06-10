@@ -1,0 +1,34 @@
+name: PaisaPathau — Fetch Nepal Rates
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # Every 30 minutes, 24/7
+  workflow_dispatch:           # Manual trigger anytime
+
+jobs:
+  fetch-rates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Fetch all rates
+        env:
+          EXCHANGE_RATE_API_KEY: ${{ secrets.EXCHANGE_RATE_API_KEY }}
+        run: |
+          sed -i "s/YOUR_FREE_API_KEY_HERE/$EXCHANGE_RATE_API_KEY/" scrapers/exchangerate_api.py
+          python main_scheduler.py --once
+
+      - name: Save updated rates to repo
+        run: |
+          git config user.name  "PaisaPathau Bot"
+          git config user.email "bot@paisapathau.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Rates updated $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
