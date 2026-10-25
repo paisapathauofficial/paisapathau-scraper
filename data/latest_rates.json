@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T21:08:15.959813Z",
+  "last_updated": "2026-10-25T23:28:51.727939Z",
   "send_amount": 1000,
   "send_currency": "various \u2192 NPR",
   "total_corridors": 25,
@@ -12,11 +12,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 106.823,
-      "best_receive_amount": 105334.0,
-      "best_fee": 13.94,
+      "best_send_rate": 106.74,
+      "best_receive_amount": 105365.0,
+      "best_fee": 12.88,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "USD",
@@ -30,7 +30,7 @@
       "best_receive_amount": 149144.0,
       "best_fee": 18.21,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "GBP",
@@ -40,11 +40,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 203.142,
-      "best_receive_amount": 200597.0,
-      "best_fee": 12.53,
+      "best_send_rate": 203.035,
+      "best_receive_amount": 200570.0,
+      "best_fee": 12.14,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "CAD",
@@ -54,11 +54,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 108.194,
-      "best_receive_amount": 106506.0,
-      "best_fee": 15.6,
+      "best_send_rate": 108.356,
+      "best_receive_amount": 106707.0,
+      "best_fee": 15.22,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "NZD",
@@ -69,10 +69,10 @@
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
       "best_send_rate": 86.5507,
-      "best_receive_amount": 85370.0,
-      "best_fee": 13.64,
+      "best_receive_amount": 85446.0,
+      "best_fee": 12.76,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "EUR",
@@ -82,11 +82,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 170.481,
-      "best_receive_amount": 168152.0,
+      "best_send_rate": 170.215,
+      "best_receive_amount": 167890.0,
       "best_fee": 13.66,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "AED",
@@ -96,11 +96,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 41.3631,
-      "best_receive_amount": 40552.0,
+      "best_send_rate": 41.3586,
+      "best_receive_amount": 40548.0,
       "best_fee": 19.61,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "SAR",
@@ -114,7 +114,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "QAR",
@@ -128,7 +128,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "KWD",
@@ -142,7 +142,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "BHD",
@@ -156,7 +156,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "OMR",
@@ -170,7 +170,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "JPY",
@@ -180,11 +180,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 0.9674,
-      "best_receive_amount": 674.0,
-      "best_fee": 303.0,
+      "best_send_rate": 0.9679,
+      "best_receive_amount": 676.0,
+      "best_fee": 302.0,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "KRW",
@@ -198,7 +198,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "MYR",
@@ -208,11 +208,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 37.202,
-      "best_receive_amount": 36342.0,
+      "best_send_rate": 37.1856,
+      "best_receive_amount": 36325.0,
       "best_fee": 23.13,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "SGD",
@@ -222,11 +222,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 118.889,
-      "best_receive_amount": 117337.0,
-      "best_fee": 13.05,
+      "best_send_rate": 118.838,
+      "best_receive_amount": 117450.0,
+      "best_fee": 11.68,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "HKD",
@@ -240,7 +240,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "CHF",
@@ -250,11 +250,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 184.245,
-      "best_receive_amount": 181511.0,
-      "best_fee": 14.84,
+      "best_send_rate": 184.178,
+      "best_receive_amount": 181911.0,
+      "best_fee": 12.31,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "SEK",
@@ -264,11 +264,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 15.3276,
-      "best_receive_amount": 14888.0,
-      "best_fee": 28.69,
+      "best_send_rate": 15.296,
+      "best_receive_amount": 14867.0,
+      "best_fee": 28.02,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "NOK",
@@ -278,11 +278,11 @@
       "mid_market_rate": "N/A",
       "mid_market_receive": "N/A",
       "best_provider": "Wise",
-      "best_send_rate": 16.3294,
-      "best_receive_amount": 15845.0,
-      "best_fee": 29.64,
+      "best_send_rate": 16.2927,
+      "best_receive_amount": 15886.0,
+      "best_fee": 24.95,
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "DKK",
@@ -296,7 +296,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "INR",
@@ -310,7 +310,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "THB",
@@ -324,7 +324,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "ISK",
@@ -338,7 +338,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     },
     {
       "from_currency": "ILS",
@@ -352,7 +352,7 @@
       "best_receive_amount": "N/A",
       "best_fee": "N/A",
       "send_amount": 1000,
-      "last_updated": "2026-10-25T21:08:15.959813Z"
+      "last_updated": "2026-10-25T23:28:51.727939Z"
     }
   ],
   "all_rates": [
@@ -360,13 +360,13 @@
       "provider": "Wise",
       "from_currency": "AUD",
       "to_currency": "NPR",
-      "exchange_rate": 106.823,
+      "exchange_rate": 106.74,
       "send_amount": 1000,
-      "fee": 13.94,
-      "net_send": 986.06,
-      "receive_amount": 105334.0,
+      "fee": 12.88,
+      "net_send": 987.12,
+      "receive_amount": 105365.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:11.028239Z",
+      "timestamp": "2026-10-25T23:28:46.477262Z",
       "status": "ok"
     },
     {
@@ -379,33 +379,33 @@
       "net_send": 981.79,
       "receive_amount": 149144.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:11.266057Z",
+      "timestamp": "2026-10-25T23:28:46.751915Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "GBP",
       "to_currency": "NPR",
-      "exchange_rate": 203.142,
+      "exchange_rate": 203.035,
       "send_amount": 1000,
-      "fee": 12.53,
-      "net_send": 987.47,
-      "receive_amount": 200597.0,
+      "fee": 12.14,
+      "net_send": 987.86,
+      "receive_amount": 200570.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:11.505947Z",
+      "timestamp": "2026-10-25T23:28:47.024581Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "CAD",
       "to_currency": "NPR",
-      "exchange_rate": 108.194,
+      "exchange_rate": 108.356,
       "send_amount": 1000,
-      "fee": 15.6,
-      "net_send": 984.4,
-      "receive_amount": 106506.0,
+      "fee": 15.22,
+      "net_send": 984.78,
+      "receive_amount": 106707.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:11.743420Z",
+      "timestamp": "2026-10-25T23:28:47.355046Z",
       "status": "ok"
     },
     {
@@ -414,115 +414,115 @@
       "to_currency": "NPR",
       "exchange_rate": 86.5507,
       "send_amount": 1000,
-      "fee": 13.64,
-      "net_send": 986.36,
-      "receive_amount": 85370.0,
+      "fee": 12.76,
+      "net_send": 987.24,
+      "receive_amount": 85446.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:11.996127Z",
+      "timestamp": "2026-10-25T23:28:47.622821Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "EUR",
       "to_currency": "NPR",
-      "exchange_rate": 170.481,
+      "exchange_rate": 170.215,
       "send_amount": 1000,
       "fee": 13.66,
       "net_send": 986.34,
-      "receive_amount": 168152.0,
+      "receive_amount": 167890.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:12.254692Z",
+      "timestamp": "2026-10-25T23:28:47.878713Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "AED",
       "to_currency": "NPR",
-      "exchange_rate": 41.3631,
+      "exchange_rate": 41.3586,
       "send_amount": 1000,
       "fee": 19.61,
       "net_send": 980.39,
-      "receive_amount": 40552.0,
+      "receive_amount": 40548.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:12.498817Z",
+      "timestamp": "2026-10-25T23:28:48.133659Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "JPY",
       "to_currency": "NPR",
-      "exchange_rate": 0.9674,
+      "exchange_rate": 0.9679,
       "send_amount": 1000,
-      "fee": 303.0,
-      "net_send": 697.0,
-      "receive_amount": 674.0,
+      "fee": 302.0,
+      "net_send": 698.0,
+      "receive_amount": 676.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:14.064644Z",
+      "timestamp": "2026-10-25T23:28:49.908569Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "SGD",
       "to_currency": "NPR",
-      "exchange_rate": 118.889,
+      "exchange_rate": 118.838,
       "send_amount": 1000,
-      "fee": 13.05,
-      "net_send": 986.95,
-      "receive_amount": 117337.0,
+      "fee": 11.68,
+      "net_send": 988.32,
+      "receive_amount": 117450.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:14.354585Z",
+      "timestamp": "2026-10-25T23:28:50.154638Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "CHF",
       "to_currency": "NPR",
-      "exchange_rate": 184.245,
+      "exchange_rate": 184.178,
       "send_amount": 1000,
-      "fee": 14.84,
-      "net_send": 985.16,
-      "receive_amount": 181511.0,
+      "fee": 12.31,
+      "net_send": 987.69,
+      "receive_amount": 181911.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:14.585359Z",
+      "timestamp": "2026-10-25T23:28:50.412566Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "SEK",
       "to_currency": "NPR",
-      "exchange_rate": 15.3276,
+      "exchange_rate": 15.296,
       "send_amount": 1000,
-      "fee": 28.69,
-      "net_send": 971.31,
-      "receive_amount": 14888.0,
+      "fee": 28.02,
+      "net_send": 971.98,
+      "receive_amount": 14867.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:14.834218Z",
+      "timestamp": "2026-10-25T23:28:50.669873Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "NOK",
       "to_currency": "NPR",
-      "exchange_rate": 16.3294,
+      "exchange_rate": 16.2927,
       "send_amount": 1000,
-      "fee": 29.64,
-      "net_send": 970.36,
-      "receive_amount": 15845.0,
+      "fee": 24.95,
+      "net_send": 975.05,
+      "receive_amount": 15886.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:15.055558Z",
+      "timestamp": "2026-10-25T23:28:50.919086Z",
       "status": "ok"
     },
     {
       "provider": "Wise",
       "from_currency": "MYR",
       "to_currency": "NPR",
-      "exchange_rate": 37.202,
+      "exchange_rate": 37.1856,
       "send_amount": 1000,
       "fee": 23.13,
       "net_send": 976.87,
-      "receive_amount": 36342.0,
+      "receive_amount": 36325.0,
       "source": "quote",
-      "timestamp": "2026-10-25T21:08:15.305724Z",
+      "timestamp": "2026-10-25T23:28:51.165565Z",
       "status": "ok"
     }
   ]
